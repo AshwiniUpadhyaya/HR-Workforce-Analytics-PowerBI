@@ -10,6 +10,9 @@ This project analyzes employee attrition and workforce trends using Power BI.
 - Attrition by Age Group
 - Gender Distribution
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## Tools Used
 - Power BI
 - DAX
